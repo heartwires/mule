@@ -1,1 +1,1 @@
-# ipfs-cluster-scheduler
+# IPFS Workload Scheduler
