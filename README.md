@@ -1,1 +1,1 @@
-# Mule: IPFS Workload Scheduler
+# Mule: IPFS Workload Scheduler / Secrets Manager
